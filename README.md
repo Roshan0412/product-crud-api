@@ -230,5 +230,5 @@ For support and questions, please open an issue in the repository.
 For questions, feedback, or contributions, feel free to reach out:
 
 * **Developer:** Roshan Jha
-* **Email:** [roshan.jha@rapidops.co](mailto:roshan.jha@rapidops.co)
-* **GitHub:** [roshan.jha0125](https://github.com/roshan.jha0125)
+* **Email:** [roshanjha.work@gmail.com](mailto:roshanjha.work@gmail.com)
+* **GitHub:** [roshanjha0412](https://github.com/roshanjha0412)
